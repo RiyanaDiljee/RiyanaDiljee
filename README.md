@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Riyana! <br/><a href="https://github.com/joshmadakor1">Researcher</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Aspiring Analyst</a>
 
-<!--
-**RiyanaDiljee/RiyanaDiljee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Analysis Projects:</h2>
 
-Here are some ideas to get you started:
+<h3>Power BI Projects</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Tata Data Visualisation: Empowering Business with Effective Insights</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Accenture North America Data Analytics and Visualization</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][email]
+
+[email]: https://www.gmail.com/ri.diljee47
+[linkedin]: https://linkedin.com/in/joshmadakor
