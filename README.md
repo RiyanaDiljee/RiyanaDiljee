@@ -7,7 +7,7 @@
 - <b>Tata Data Visualisation: Empowering Business with Effective Insights</b>
   - [Online Retail Data Analysis and Visualization](https://github.com/RiyanaDiljee/Tata-Data-Visualization)
 - <b>Accenture North America Data Analytics and Visualization</b>
-  - [Social Media Engagement and Sentiment Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Social Media Engagement and Sentiment Analysis](https://github.com/RiyanaDiljee/Accenture-North-America-Data-Analytics-and-Visualization) 
 
 <h2> 🤳 Connect with me:</h2>
 
