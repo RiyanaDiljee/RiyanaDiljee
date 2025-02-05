@@ -7,8 +7,7 @@
 - <b>Tata Data Visualisation: Empowering Business with Effective Insights</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Accenture North America Data Analytics and Visualization</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
 <h2> 🤳 Connect with me:</h2>
 
