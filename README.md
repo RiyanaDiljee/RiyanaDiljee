@@ -1,4 +1,4 @@
-<h1>Hi, I'm Riyana! <br/><a href="https://github.com/joshmadakor1">Researcher</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Aspiring Analyst</a>
+<h1>Hi, I'm Riyana! <br/><a href="https://github.com/joshmadakor1">Researcher</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Analyst</a>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
